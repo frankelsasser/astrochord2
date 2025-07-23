@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional custom styles can go below */
+body {
+  background-color: #000055; /* Dark blue background */
+  color: white;
+  font-family: sans-serif;
+}
